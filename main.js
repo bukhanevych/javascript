@@ -1,1 +1,1 @@
-alert('Firht...')
+alert('Fight...')
